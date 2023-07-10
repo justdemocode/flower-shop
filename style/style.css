@@ -79,8 +79,6 @@
 .radius-card-images{
     margin: 100px 240px;
     display: flex;
-    /* align-items: center;
-    text-align: center; */
     gap: 24px;
 }
 
@@ -121,3 +119,16 @@
     border-radius: 300px 300px 0px 0px;
     padding: 20px 10px 0px 10px;
 }
+
+/* Hot-deal section style */
+.hot-deal-container{
+    display: flex;
+    height: 60vh;
+    justify-content: space-between;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    align-items: center;
+    padding: 100px 240px;
+    margin-bottom: 100px;
+}
+    
