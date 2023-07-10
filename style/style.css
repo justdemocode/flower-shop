@@ -75,3 +75,49 @@
     font-weight: 400px;
     line-height: 30px;
 }
+
+.radius-card-images{
+    margin: 100px 240px;
+    display: flex;
+    /* align-items: center;
+    text-align: center; */
+    gap: 24px;
+}
+
+
+
+.flower-name{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700px;
+    line-height: 35px;
+    text-decoration-line: underline;
+
+}
+
+.radius-img-1{
+    background-color: #0597A026;
+    width: 450px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    padding: 10px;
+    padding: 20px 10px 0px 10px;
+}
+
+.radius-img-2{
+    background-color: #A7216226;
+    width: 450px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    padding: 10px;
+    padding: 20px 10px 0px 10px;
+}
+
+.radius-img-3{
+    background-color: #477D1126;
+    width: 450px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    padding: 20px 10px 0px 10px;
+}
