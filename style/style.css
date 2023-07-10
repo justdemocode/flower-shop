@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* landing page style */
+
+.landing-container{
+    display: flex;
+    height: 100vh;
+    justify-content: space-between;
+    background-color: #E554731A;
+    align-items: center;
+}
+
+.landing-info{
+    padding-left:240px;
+}
+
+.landing-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800px;
+}
+
+.landing-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 30px;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 30px 0px;
+}
+
+.btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600px;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    box-shadow: -9px -7px 17px #130000;
+}
+
+.btn:hover{
+    background-color: #FFF;
+    color: #E55473;
+}
+
+.landing-img{
+    padding-right: 80px;
+}
