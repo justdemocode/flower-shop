@@ -149,7 +149,7 @@
     font-size: 18px;
     font-weight: 400px;
     line-height: 30px;
-    margin: 10px 0px;
+    margin: 15px 0px;
 }
 
 .btn-2{
@@ -160,4 +160,49 @@
     background: #E55473;
     padding: 20px 43px;
     border: none;
+    box-shadow: -9px -7px 17px #130000;
+    margin: 20px 0px;
+}
+
+.btn-2:hover{
+    background-color: #FFF;
+    color: #E55473;
+}
+
+.hot-deal-info{
+    text-align: center;
+}
+
+/* reels section style */
+.insta-card{
+    margin: 100px 240px;
+}
+
+.insta-reels-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800px;
+}
+
+.insta-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 30px;
+}
+
+.insta-card-reels{
+    margin: 100px 240px;
+    display: flex;
+    gap: 30px;
+}
+
+.insta-reels{
+    width: 350px;
+    height: 538px;
+    background-image: url("../flower-asset/reels/reelbg.jpg");
+    border-radius: 5px;
+    box-shadow: 5px 7px 12px black;
 }
