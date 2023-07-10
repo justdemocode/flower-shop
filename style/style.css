@@ -79,7 +79,7 @@
 .radius-card-images{
     margin: 100px 240px;
     display: flex;
-    gap: 24px;
+    gap: 30px;
 }
 
 
@@ -100,7 +100,7 @@
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     padding: 10px;
-    padding: 20px 10px 0px 10px;
+    padding: 20px 5px 0px 5px;
 }
 
 .radius-img-2{
@@ -109,7 +109,7 @@
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     padding: 10px;
-    padding: 20px 10px 0px 10px;
+    padding: 20px 5px 0px 5px;
 }
 
 .radius-img-3{
@@ -117,7 +117,7 @@
     width: 450px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
-    padding: 20px 10px 0px 10px;
+    padding: 20px 5px 0px 5px;
 }
 
 /* Hot-deal section style */
@@ -131,4 +131,33 @@
     padding: 100px 240px;
     margin-bottom: 100px;
 }
-    
+
+.hot-deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800px;
+
+}
+
+.off-rad{
+    color: #E55473;
+}
+
+.hot-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 30px;
+    margin: 10px 0px;
+}
+
+.btn-2{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700px;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: none;
+}
